@@ -1,0 +1,25 @@
+{
+  "name": "node_scaffold",
+  "version": "0.0.1",
+  "description": "Node Scaffold using Express, Backbone and Bootstrap",
+  "contributors": [{
+    "name": "Brian Detering",
+    "email": "bdeterin@gmail.com",
+    "url": "http://www.briandetering.net/"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DubFriend/node_scaffold"
+  },
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
+  "devDependencies": {
+    "express": "3.x",
+    "grunt": "~0.4.1",
+    "grunt-contrib-qunit": "~0.2.2",
+    "grunt-contrib-jshint": "~0.6.0",
+    "hbs": "~2.3.1"
+  }
+}
